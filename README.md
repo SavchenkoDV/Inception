@@ -1,10 +1,10 @@
-# inception_School21_Ecole42
+# Inception
 This project aims to broaden your knowledge of system administration by using Docker. You will virtualize several Docker images, creating them in your new personal virtual machine.
 
 Предисловие:
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Данный мануал - это мои пошаговые действия, каким образом я действовал и что читал. Все ссылки, которые здесь предоставлены - это не полная информация, так же я пользовался StackOverflow и другими источниками. Вместе с тем данные ссылки мне дали общее представление, как все устроено и искать информацию стало проще. Если вам понравилось данное руководство и Вы бы хотели, что бы я и дальше  делал подобные MANs ставьте звездочки и подписывайтесь на меня. Спасибо и удачи с проектами!
+This manual outlines the step-by-step actions I took, what I did, and what I read. All the links provided here do not contain complete information — I also used StackOverflow and other sources. Nevertheless, these links gave me a general understanding of how everything works, which made it easier to search for information.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,10 +46,3 @@ This project aims to broaden your knowledge of system administration by using Do
 &emsp; 10.3. Настраиваем <a href="https://www.php.net/manual/ru/install.fpm.configuration.php">ввв.conf</a> и цепляем к ngixn: /etc/php/x.x/fpm/pool.d<br>
 &emsp; 10.4. <a href="https://codex.wordpress.org/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_WordPress#Using_the_MySQL_Client) - wp-config (https://techlist.top/ustanovka-wordpress-odnoj-knopkoj/">Устанавливаем wordpress: /etc/php/x.x/fpm/pool.d</a>  <br>
 &emsp; 10.5. <a href="https://linux.die.net/man/8/php-fpm">Запускаем.</a>
----------------------------------------------------------------------------------------------------------------------------------
-Actual Status : finished.
-Result : 100%
-
-This is my inception project from the 42 cursus, need help or
-you need to translate this article into English write to me.
-Contacts here: https://github.com/SavchenkoDV.
