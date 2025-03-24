@@ -1,8 +1,4 @@
 # Inception
-This project aims to broaden your knowledge of system administration by using Docker. You will virtualize several Docker images, creating them in your new personal virtual machine.
-
-Предисловие:
----------------------------------------------------------------------------------------------------------------------------------
 
 This manual outlines the step-by-step actions I took, what I did, and what I read. All the links provided here do not contain complete information — I also used StackOverflow and other sources. Nevertheless, these links gave me a general understanding of how everything works, which made it easier to search for information.
 
